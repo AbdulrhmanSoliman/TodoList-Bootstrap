@@ -1,0 +1,19 @@
+.container {
+  max-width: 40rem;
+}
+.light-dark {
+  position: absolute;
+  right: 10px;
+  top: 0;
+  cursor: pointer;
+}
+.controls button {
+  transition: 0.3s;
+  cursor: pointer;
+  &.edit:hover {
+    color: teal;
+  }
+  &.delete:hover {
+    color: rgb(247, 55, 55);
+  }
+}
