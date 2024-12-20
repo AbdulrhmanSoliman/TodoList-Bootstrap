@@ -13,31 +13,11 @@ This is a simple and elegant Todo List application built with HTML, CSS, and Jav
 
 ## Preview
 
-![Todo List App Preview](./src/todolist-preview.png)
-
-## Installation
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/your-username/todo-list-app.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```sh
-   cd todo-list-app
-   ```
-
-3. Install the dependencies:
-
-   ```sh
-   npm install
-   ```
+![Todo List App Preview](./todolist-preview.png)
 
 ## Usage
 
-1. Open [index.html](http://_vscodecontentref_/1) in your browser to view the app.
+1. Open index.html in your browser to view the app.
 2. Add, edit, delete, and mark tasks as complete using the provided interface.
 3. Toggle between light and dark modes using the button in the top-right corner.
 

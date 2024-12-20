@@ -1,5 +1,3 @@
-// Import all of Bootstrap's CSS
-@import "bootstrap/scss/bootstrap";
 .container {
   max-width: 40rem;
 }
